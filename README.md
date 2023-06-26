@@ -1,2 +1,2 @@
 # GalleryApp
-Task 1 (simple pictures gallery with server connection)
+Task 1 (simple pictures gallery with the server connection)
